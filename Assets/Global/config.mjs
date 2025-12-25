@@ -85,8 +85,8 @@ export default {
     },
 
     Links: {
-      Discord: "https://discord.gg/___",
-      Patreon: "https://patreon.com",
+      Discord: "https://discord.gg/JkkuBAMR",
+      linktr: "https://linktr.ee/darkggrs_gt",
     },
 
     Status: "dnd",
@@ -99,18 +99,18 @@ export default {
       Global: true,
     },
 
-    Owners: ["219813914035224576"], // bot owner ids
+    Owners: ["1413377123154002010"], // bot owner ids
     Theme: "Blue",
   },
 
   // webhooks logs of your bot
   Log: {
     Ready:
-      "https://discord.com/api/webhooks/1198197920042848276/eKefN4rkaHn4ZpyssxYAsh7aKGcmMFTzMHUVS415zZzQQAqkbvzm79tUL_bAltDxkxE2",
+      "https://discord.com/api/webhooks/1453811647625040056/EIqO_cp8HqeAls1CCw2uBSDY1rzcRE50mhhGjHwtXUFTHLzBiQqNFniOTAwGxC3QfdYR",
     Command:
-      "https://discord.com/api/webhooks/1198197920042848276/eKefN4rkaHn4ZpyssxYAsh7aKGcmMFTzMHUVS415zZzQQAqkbvzm79tUL_bAltDxkxE2",
+      "https://discord.com/api/webhooks/1453811647625040056/EIqO_cp8HqeAls1CCw2uBSDY1rzcRE50mhhGjHwtXUFTHLzBiQqNFniOTAwGxC3QfdYR",
     Error:
-      "https://discord.com/api/webhooks/1198197920042848276/eKefN4rkaHn4ZpyssxYAsh7aKGcmMFTzMHUVS415zZzQQAqkbvzm79tUL_bAltDxkxE2",
+      "https://discord.com/api/webhooks/1453811647625040056/EIqO_cp8HqeAls1CCw2uBSDY1rzcRE50mhhGjHwtXUFTHLzBiQqNFniOTAwGxC3QfdYR",
   },
 
   Commands: {
